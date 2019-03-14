@@ -1,6 +1,5 @@
 {
     "compilerOptions": {
-        // 为了node环境能直接运行
         "module": "es2015",
         "noImplicitAny": true,
         "sourceMap": true,
